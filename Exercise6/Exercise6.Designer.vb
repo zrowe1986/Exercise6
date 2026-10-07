@@ -218,7 +218,7 @@ Partial Class Exercise6
         AutoScaleDimensions = New SizeF(7.0F, 15.0F)
         AutoScaleMode = AutoScaleMode.Font
         BackColor = Color.FromArgb(CByte(255), CByte(224), CByte(192))
-        ClientSize = New Size(800, 450)
+        ClientSize = New Size(480, 414)
         Controls.Add(txtBuy)
         Controls.Add(txtGallons)
         Controls.Add(txtArea)
